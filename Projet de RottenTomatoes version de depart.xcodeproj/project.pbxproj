@@ -17,6 +17,7 @@
 		B54146751BD199F400C0A80E /* tomato1.png in Resources */ = {isa = PBXBuildFile; fileRef = B54146731BD199F400C0A80E /* tomato1.png */; };
 		B54146761BD199F400C0A80E /* loading.gif in Resources */ = {isa = PBXBuildFile; fileRef = B54146741BD199F400C0A80E /* loading.gif */; };
 		B54146781BD199FD00C0A80E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B54146771BD199FD00C0A80E /* Main.storyboard */; };
+		B541467A1BD19BEF00C0A80E /* README.md in Sources */ = {isa = PBXBuildFile; fileRef = B54146791BD19BEF00C0A80E /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -32,6 +33,7 @@
 		B54146731BD199F400C0A80E /* tomato1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = tomato1.png; sourceTree = "<group>"; };
 		B54146741BD199F400C0A80E /* loading.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = loading.gif; sourceTree = "<group>"; };
 		B54146771BD199FD00C0A80E /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Main.storyboard; sourceTree = "<group>"; };
+		B54146791BD19BEF00C0A80E /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -48,6 +50,7 @@
 		B541463A1BD1996F00C0A80E = {
 			isa = PBXGroup;
 			children = (
+				B54146791BD19BEF00C0A80E /* README.md */,
 				B54146451BD1996F00C0A80E /* Projet de RottenTomatoes version de depart */,
 				B54146441BD1996F00C0A80E /* Products */,
 			);
@@ -183,6 +186,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B541467A1BD19BEF00C0A80E /* README.md in Sources */,
 				B541466F1BD199CA00C0A80E /* CelluleRotten.swift in Sources */,
 				B54146701BD199CA00C0A80E /* Cle.swift in Sources */,
 				B541466D1BD199CA00C0A80E /* ViewController.swift in Sources */,
