@@ -9,5 +9,5 @@
 import Foundation
 
 class Cle {
-    let CLE_API = "sn896rbfs3vrkcgdmndkb2ab"
+    let CLE_API = "sn896rbfs3vrkcgdmndkb2"
 }
